@@ -98,11 +98,10 @@ Kd = 8.00
 
 # 📸 Demo
 
-#Single Arm Robot 
 
 <img width="523" height="542" alt="image" src="https://github.com/user-attachments/assets/91fc5fd9-74aa-44d9-ba9a-2460ed5a4b91" />
 
-#Line Follower
+
 <img width="848" height="415" alt="image" src="https://github.com/user-attachments/assets/f7cbeb08-b4a0-4750-99b1-c37fda84af87" />
 
 
